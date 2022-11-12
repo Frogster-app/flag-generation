@@ -1,0 +1,1 @@
+// Generate and get the inputs of the flags design and output the JSON data array for rendering later.
